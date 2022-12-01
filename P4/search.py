@@ -1,7 +1,3 @@
-# Author: Sean O'Dea
-# Email: sodea@umass.edu
-# Spire ID: 33851478
-
 import urllib.request
 import re
 import string
